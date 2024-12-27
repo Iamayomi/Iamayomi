@@ -12,7 +12,7 @@ I'm a passionate backend developer with a strong focus on building scalable and 
 * ⚡  Ask me about Node.js, Express.js, Nest.js, MongoDB, PostgreSQL, and RESTful API design
 
 <a href="https://x.com/iamayom93173603" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/iamayom93173603logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
+src="https://img.shields.io/twitter/follow/iamayom93173603?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
 /></a>
 <a href="https://www.github.com/Iamayomi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Iamayomi?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
