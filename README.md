@@ -4,28 +4,35 @@
 I'm a passionate backend developer with a strong focus on building scalable and robust server-side applications. My mission is to create efficient and secure solutions that power the digital world.
 
 ## 🔗 Links
-- [LinkedIn](https://www.linkedin.com/in/ayomide-sherif-72b035243) - Connect with me on LinkedIn for professional networking.
-- [Email](mailto:ayomidesherif2019@gmail.com) - Drop me an email for inquiries and collaborations.
-- 
-## 💡 More About Me
-- 🧠 Currently, I'm diving deep into Node.js (ExpressJs), leveraging their full potential to develop high-performance APIs and microservices.
-- 👯‍♀️ I'm enthusiastic about collaborating on backend projects.
-- 🎯 My ultimate goal is to contribute to the backbone of digital infrastructure, making a significant impact on the world through reliable backend solutions.
+* 🤝 [LinkedIn](https://www.linkedin.com/in/ayomide-sherif-72b035243) - Connect with me on LinkedIn for professional networking.
+* ✉️ [Email](mailto:ayomidesherif2019@gmail.com) - Drop me an email for inquiries and collaborations.
+* 🚀  I'm currently working on building scalable backend systems
+* 🧠  I'm expanding my knowledge in software architecture, design patterns, and cloud technologies
+* 🤝  I'm open to collaborating on backend projects, microservices, and APIs
+* ⚡  Ask me about Node.js, Express.js, Nest.js, MongoDB, PostgreSQL, and RESTful API design
 
-## ⚡️ A Bit of Fun
-- 📚 I enjoy diving into backend-related books and tech blogs to stay updated with the latest industry trends and best practices.
-- 🎮 when i'm free, I like to relax by playing strategy games and sharpening my analytical skills.
+<a href="https://x.com/iamayom93173603" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/iamayom93173603logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
+/></a>
+<a href="https://www.github.com/Iamayomi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Iamayomi?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 
-## 🛠 Backend Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Next.Js](https://img.shields.io/badge/-Next.Js-05122A?style=flat&logo=next.js)&nbsp;
-![Express.Js](https://img.shields.io/badge/-Express.Js-05122A?style=flat&logo=express)&nbsp;
-![Node.Js](https://img.shields.io/badge/-Node.Js-05122A?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+### 🛠️ Technical Skills
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### 🔗 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ayomide-amodu-72b035243" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Iamayomi/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/Iamayomi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Iamayomi/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/your_twitter_handle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Iamayomi/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
