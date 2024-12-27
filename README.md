@@ -10,6 +10,12 @@ I'm a passionate backend developer with a strong focus on building scalable and 
 * 🤝  I'm open to collaborating on backend projects, microservices, and APIs
 * ⚡  Ask me about Node.js, Express.js, Nest.js, MongoDB, PostgreSQL, and RESTful API design
 
+## 🌟 **What I Do**
+- Architect and implement backend services and APIs for web and mobile applications.  
+- Build microservices and optimize database performance.  
+- Design and implement robust authentication and authorization systems.  
+- Focus on clean code, scalability, and secure practices. 
+
 <a href="https://x.com/iamayom93173603" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/iamayom93173603?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
 /></a>
