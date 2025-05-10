@@ -1,22 +1,22 @@
- Ayomide Amodu
+# 👋 Hello, I'm **Ayomide Amodu**
 
-## Software Engineer — Backend Focused
+## 🚀 Software Engineer — Backend Focused
 
-I’m a backend engineer focused on building scalable, secure, and high-performance server-side systems. I specialize in designing APIs, developing microservices, and architecting backend infrastructures that support real-world applications.
-
----
-
-## What I Do
-
-- Develop RESTful and event-driven APIs using Node.js, NestJS, and Express.js  
-- Design and implement scalable microservices architectures  
-- Optimize PostgreSQL and MongoDB databases for performance  
-- Build and containerize applications using Docker and deploy to AWS  
-- Implement secure authentication systems with JWT, OAuth2, and RBAC  
+I’m a backend engineer passionate about building **scalable**, **secure**, and **high-performance** server-side systems. I specialize in designing APIs, developing microservices, and architecting backend systems that power real-world applications.
 
 ---
 
-## Tech Stack
+## 🔧 **What I Do**
+
+- **Backend Development:** Building RESTful and event-driven APIs using Node.js, NestJS, and Express.js.  
+- **System Architecture:** Designing microservices architectures with messaging systems like Kafka/RabbitMQ.  
+- **Database Engineering:** Modeling and optimizing queries for PostgreSQL and MongoDB.  
+- **Cloud & DevOps:** Dockerizing applications and deploying scalable systems to AWS.  
+- **Authentication & Security:** Implementing OAuth2, JWT, RBAC, and secure authentication systems.  
+
+---
+
+## 🛠️ **Tech Stack**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -29,41 +29,34 @@ I’m a backend engineer focused on building scalable, secure, and high-performa
 
 ---
 
-## Currently Working On
+## 📈 **Currently**
 
-- Developing scalable backend systems with a microservices architecture  
-- Expanding expertise in cloud-native technologies and event-driven architecture  
-- Open to collaboration on backend projects, developer tools, or SaaS platforms  
+- Building **scalable backend systems** with microservices architecture.  
+- Learning **cloud-native patterns**, **event-driven architecture**, and **software design principles**.  
+- Open to **collaboration** on backend projects, APIs, or developer tools.
 
 ---
 
-## GitHub Stats
-
-### Dark Mode
+## 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iamayomi&show_icons=true&theme=radical" alt="Ayomide's GitHub stats" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamayomi&layout=compact&theme=radical" alt="Top Languages" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamayomi&theme=radical" alt="GitHub Streak" />
+  <br />
   <img src="https://github-profile-trophy.vercel.app/?username=Iamayomi&theme=radical&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-</p>
-
-### Light Mode
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iamayomi&show_icons=true&theme=default" alt="Ayomide's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamayomi&layout=compact&theme=default" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamayomi&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
 
-## Connect
+## 🔗 **Connect With Me**
 
 - **LinkedIn:** [Ayomide Amodu](https://www.linkedin.com/in/ayomide-sherif-72b035243)  
 - **Email:** [ayomidesherif2019@gmail.com](mailto:ayomidesherif2019@gmail.com)  
 - **GitHub:** [Iamayomi](https://github.com/Iamayomi)  
-- **Twitter/X:** [@iamayom93173603](https://x.com/iamayom93173603)
+- **Twitter:** [@iamayom93173603](https://x.com/iamayom93173603)
 
 <p align="left">
   <a href="https://x.com/iamayom93173603" target="_blank" rel="noreferrer"><img
