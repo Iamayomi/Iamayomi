@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Ayomide Amodu**
+# 👋 Hello, I'm **Ayomide**
 
 ## 🚀 Software Engineer — Backend Focused
 
