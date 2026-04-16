@@ -56,11 +56,11 @@ I’m a backend engineer passionate about building **scalable**, **secure**, and
 - **LinkedIn:** [Ayomide Amodu](https://www.linkedin.com/in/ayomide-sherif-72b035243)  
 - **Email:** [ayomidesherif2019@gmail.com](mailto:ayomidesherif2019@gmail.com)  
 - **GitHub:** [Iamayomi](https://github.com/Iamayomi)  
-- **Twitter:** [@iamayom93173603](https://x.com/iamayom93173603)
+- **Twitter:** [@iamayom93173603](https://x.com/ayonz__)
 
 <p align="left">
   <a href="https://x.com/iamayom93173603" target="_blank" rel="noreferrer"><img
-  src="https://img.shields.io/twitter/follow/iamayom93173603?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+  src="https://img.shields.io/twitter/follow/ayonz__?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000" /></a>
   <a href="https://www.github.com/Iamayomi" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/github/followers/Iamayomi?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 </p>
